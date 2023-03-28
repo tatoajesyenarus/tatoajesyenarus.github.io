@@ -14,7 +14,7 @@ This is an bootstrap theme develop with Jekyll powered by github pages
 View this jekyll theme in action [here](https://vidhyav656.github.io/startbootstrap-stylish-portfolio-jekyll/)
 
 ## Screenshot
-![screenshot](https://github.com/vidhyav656/startbootstrap-stylish-portfolio-jekyll/blob/master/screenshot.jpg)
+![screenshot](https://www.mrtatuajes.com/img/dibujos/tatuaje-de-anubis-756.jpg)
 
 
 ---------
